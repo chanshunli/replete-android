@@ -1,5 +1,9 @@
 # Replete Android
 
+* 如何在安卓上用Google Closure Compiler编译ShadowCLJS? 
+
+* 如何用j2v8来实现,在clojure上编译ClojureScript给WebBridge使用?
+
 ClojureScript REPL Android app.
 
 Interested in iOS instead? See [Replete for iOS](https://github.com/replete-repl/replete-ios).
